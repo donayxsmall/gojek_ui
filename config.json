@@ -1,0 +1,14 @@
+{
+    "modules": [
+        "main_navigation",
+        "dashboard/home",
+        "dashboard/promo",
+        "dashboard/orders",
+        "dashboard/chat"
+    ],
+    "module_directory_name": "module",
+    "experimental_mode": false,
+    "learning_mode": false,
+    "unfreezed": true,
+    "use_cubit": false
+}
