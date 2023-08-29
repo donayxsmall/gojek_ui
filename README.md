@@ -1,16 +1,13 @@
-# gojek_ui
+# gojek_ui Home Screen
 
-A new Flutter project.
+Gojek UI Home Screen
 
-## Getting Started
+## Design Layout
 
-This project is a starting point for a Flutter application.
+-Home Screen
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshots
+<p align="center">
+  <img src="screenshoot/home1.png" width="200" />
+  <img src="screenshoot/home2.png" width="200" />
+</p>
